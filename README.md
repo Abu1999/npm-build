@@ -1,5 +1,6 @@
 ## vite 发布
 
+```js
 export default defineConfig({
   plugins: [vue(),WindiCSS(),],
   build: {
@@ -22,3 +23,4 @@ export default defineConfig({
   }
 
 })
+```
